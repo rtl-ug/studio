@@ -24,8 +24,8 @@
                 $('.a-pagepiling').pagepiling({
                     scrollingSpeed: 100,
                     menu: '#menu',
-                    loopTop: true,
-                    loopBottom: true,
+                    loopTop: false,
+                    loopBottom: false,
                     navigation: {
                         'position': 'right'
                     },
