@@ -792,7 +792,7 @@ button:focus,input:focus {
 }
 
 .brand-text {
-    margin-bottom: .375rem;
+    margin-bottom: 1rem;
     font-size: 1.125rem;
     line-height: 1.15;
     letter-spacing: -.5px
@@ -7078,7 +7078,7 @@ a.phone-link {
     line-height: .75
 }
 
-.social-rounded .socicon-twitter,.social-rounded .socicon-facebook,.social-rounded .socicon-tumblr,.social-follow {
+.social-rounded .socicon-twitter,.social-rounded .socicon-facebook,.social-rounded .socicon-linkedin,.social-follow {
     font-size: 1rem
 }
 

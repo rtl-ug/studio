@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0">
         <meta name="description" content="Bringing your ideas to life, through websites, applications, and custom solutions tailored to you. Let's start building together">
         <meta name="author" content="Kanyesigye Akbr">
-        <title><?=$pageName?> | RTL Design Studio</title>
+        <title><?=$pageName?> | RTL Development Studio</title>
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/animsition.min.css" rel="stylesheet">
         <link href="css/owl.carousel.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 
 
         <meta property="og:url" content="https://studio.rtl.ug" />
-        <meta property="og:title" content="<?=$pageName?> | RTL Design Studio" />
+        <meta property="og:title" content="<?=$pageName?> | RTL Development Studio" />
         <meta property="og:description" content="Bringing your ideas to life, through websites, applications, and custom solutions tailored to you. Let's start building together">
         <meta property="og:image" content="https://studio.rtl.ug/img/og-image-fb.jpg">
         <meta property="og:type" content="website" />
@@ -42,7 +42,7 @@
 			{
 			  "@context": "https://schema.org",
 			  "@type": "Organization",
-			  "name": "RTL Design Studio",
+			  "name": "RTL Development Studio",
 			  "url": "https://studio.rtl.ug",
 			  "logo": "https://studio.rtl.ug/img/logo/rtl-logo-1.jpg",
 			  "contactPoint": {
@@ -66,10 +66,10 @@
                 <header id="header" class="header header-fixed">
                     <div class="container-fluid clearfix">
                         <div class="brand">
-                            <a href="#">
+                            <a href="https://studio.rtl.ug" class="animsition-link" data-animsition-out-class="fade-out" data-text="Home">
                                 <div class="brand-name"><img src="img/rtl-logo-1.png" style="width:60px;margin-top:-5px;"> </div>
                                 <div class="brand-text">
-                                    RTL Creative<br/>Studio
+                                    RTL Dev Studio
                                 </div>
                             </a>
                         </div>
