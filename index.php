@@ -19,9 +19,13 @@
                         </a>
                     </li>
                 </ul>
+
                 <div class="establised">establised 2012</div>
                 <div class="copyright-fixed">&copy; RTL <script>  document.write((new Date()).getFullYear());</script>  &nbsp;</div>
+                
+
                 <div class="home-piling a-pagepiling full-height">
+
                     <div class="section pp-scrollable slide slide1 slide-dark">
                         <div class="slide-container">
                             <!-- <div class="video-container a-video" data-vimeo-width="640" data-vimeo-height="360">
@@ -49,7 +53,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a class="btn btn-primary btn-rounded mr-4" href="#sampleText22">
+                                    <a class="btn btn-primary btn-rounded mr-4" href="#ContactUs">
                                         Contact us <i class="icon ion-ios-arrow-right"></i>
                                     </a>
                                     <!-- <button class="btn-play a-video-play">
@@ -59,7 +63,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="section pp-scrollable slide slide2" data-anchor="sampleText22">
+
+                    <div class="section pp-scrollable slide slide2" data-anchor="TextSlide">
                         <div class="slide-container">
                             <div class="slide-bg slide-bg-circle">
                                 <div class="inside"></div>
@@ -82,7 +87,7 @@
                                                 <div class="solution-collapse-item-title font-libre" id="headingOne">
                                                     <a class="" href="" data-toggle="collapse" data-target="#solution1" aria-expanded="true" aria-controls="solution1">
                                                         Our Approach
-<i class="icon-plus"></i>
+                                                        <i class="icon-plus"></i>
                                                     </a>
                                                 </div>
                                                 <div id="solution1" class="collapse show" aria-labelledby="headingOne" data-parent="#solutions">
@@ -95,7 +100,7 @@
                                                 <div class="solution-collapse-item-title font-libre" id="headingTwo">
                                                     <a class=" collapsed" href="" data-toggle="collapse" data-target="#solution2" aria-expanded="false" aria-controls="solution2">
                                                         Build & Measure
-<i class="icon-plus"></i>
+                                                        <i class="icon-plus"></i>
                                                     </a>
                                                 </div>
                                                 <div id="solution2" class="collapse" aria-labelledby="headingTwo" data-parent="#solutions">
@@ -108,7 +113,7 @@
                                                 <div class="solution-collapse-item-title font-libre" id="headingThree">
                                                     <a class=" collapsed" href="" data-toggle="collapse" data-target="#solution3" aria-expanded="false" aria-controls="solution3">
                                                       Learn & Improve
-<i class="icon-plus"></i>
+                                                        <i class="icon-plus"></i>
                                                     </a>
                                                 </div>
                                                 <div id="solution3" class="collapse" aria-labelledby="headingThree" data-parent="#solutions">
@@ -123,6 +128,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="section pp-scrollable slide slide3 slide-dark">
                         <div class="slide-container">
                             <div class="slide-bg-list">
@@ -201,7 +207,7 @@
                         </div>
                     </div>
 
-                    <div class="section pp-scrollable slide slide6">
+                    <div class="section pp-scrollable slide slide6" data-anchor="ContactUs">
                         <div class="slide-container">
                             <div class="slide-bg">
                                 <div class="inside"></div>
