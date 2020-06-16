@@ -18,7 +18,7 @@
         <script src="js/animation.gsap.min.js"></script>
         <script src="js/jquery.viewport.js"></script>
         <script src="js/jquery.countdown.min.js"></script>
-        <script src="js/script.js"></script>
+        <script src="js/script.js?ver=1306"></script>
         <script>
             $(document).ready(function() {
                 $('.a-pagepiling').pagepiling({
@@ -30,7 +30,7 @@
                         'position': 'right'
                     },
                     afterLoad: function(anchorLink, index) {
-                        if(document.title == 'Home | RTL Design Studio'){
+                        if(document.title == 'Home | RTL Development Studio'){
                             if (index == 1 || index == 3 || index == 5) {
                                 // Section with dark bacgkrounds
                                 $('body').addClass('dark-horizontal');

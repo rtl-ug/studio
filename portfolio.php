@@ -246,7 +246,7 @@
                             <div class="project-parallax-detail">2019 / Landing Page</div>
                             <h2 class="project-piling-title font-libre">
                                 <a href="https://uggrind.coffee"  target="_blank" rel="nofollow">
-                                    Uggrind Specialty<br/>Coffee
+                                    Ug grind Specialty<br/>Coffee
                                 </a>
                             </h2>
                             <small style="font-size: 1.1rem;">An indigenous coffee company from Uganda that gets coffee straight from the source and sells it in different ways.</small>

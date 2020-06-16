@@ -49,7 +49,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a class="btn btn-primary btn-rounded mr-4" href="">
+                                    <a class="btn btn-primary btn-rounded mr-4" href="#sampleText22">
                                         Contact us <i class="icon ion-ios-arrow-right"></i>
                                     </a>
                                     <!-- <button class="btn-play a-video-play">
@@ -59,7 +59,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="section pp-scrollable slide slide2">
+                    <div class="section pp-scrollable slide slide2" data-anchor="sampleText22">
                         <div class="slide-container">
                             <div class="slide-bg slide-bg-circle">
                                 <div class="inside"></div>
