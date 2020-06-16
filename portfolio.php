@@ -16,12 +16,15 @@
                             <div class="project-parallax-detail"></div>
                             <h2 class="project-piling-title font-libre">
                                 <a href="">
-                                    Portfolio<br/>
-                                    
+                                    RTL Dev<br/>
+                                    Portfolio                                    
                                 </a>
                             </h2>
-                            <small style="font-size:1.1rem">A collection of recent Projects undertaken by RTL Web Studio</small>
-                            
+                            <small style="font-size:1.1rem">A collection of recent Projects undertaken by Rootless Technologies.</small>
+                            <br><br>
+                            <a class="btn btn-transparent btn-rounded mr-4 mybtn" onclick="$.fn.pagepiling.moveSectionDown();">
+                                View Projects <i class="icon ion-ios-arrow-down"></i>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -29,7 +32,7 @@
         </div>
 
         <!-- EPI Pharma  -->
-        <div class="section pp-scrollable slide slide-dark">
+        <div class="section pp-scrollable slide slide-dark" data-anchor="Epi">
             <div class="slide-container">
                 <div class="slide-bg">
                     <div class="inside" style="background-image: url(img/piling-project11.jpg);"></div>
@@ -46,6 +49,32 @@
                             <small style="font-size: 1.1rem;">EPI is an Ethiopian pharmaceutical company, determined to continually innovate and deliver high quality products to parts of the world where they are most needed</small>
                             <br><br>
                             <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="http://epi.et" target="_blank">
+                                View Site <i class="icon ion-ios-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Africa Now  -->
+        <div class="section pp-scrollable slide slide-dark" data-anchor="AfricaNow">
+            <div class="slide-container">
+                <div class="slide-bg">
+                    <div class="inside" style="background-image: url(img/piling-project12.jpg);"></div>
+                </div>
+                <div class="container">
+                    <div class="row slide-content">
+                        <div class="col-sm-7">
+                            <div class="project-parallax-detail">2019 / Event</div>
+                            <h2 class="project-piling-title font-libre">
+                                <a href="img/Africa-Now-Website-design.jpg"  target="_blank" rel="nofollow">
+                                    Africa Now<br/>Conference
+                                </a>
+                            </h2>
+                            <small style="font-size: 1.1rem;">Developed the Website and phone applications for the Africa Now Conference (Both iOS and Android). We also set up a Ticketing System integrated with Security Services for accreditation purposes.</small>
+                            <br><br>
+                            <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="img/Africa-Now-Website-design.jpg" target="_blank">
                                 View Site <i class="icon ion-ios-arrow-right"></i>
                             </a>
                         </div>
