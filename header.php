@@ -52,7 +52,7 @@
 			    "availableLanguage": "en"
 			  },
 			  "sameAs": [
-			    "https://twitter.com/kanyeceejay",
+			    "https://twitter.com/rtlug",
                 "https://www.facebook.com/rtlug/",
                 "https://www.linkedin.com/company/rootless-technologies-limited/"
 			  ]
@@ -106,19 +106,19 @@
                                   <a href="portfolio" class="animsition-link" data-animsition-out-class="fade-out" data-text="Portfolio">Portfolio</a>
                               </li>
                               <li>
-                                  <a href="https://kanyeceejaya.github.io" class="animsition-link" data-text="Github" target="_blank" rel="nofollow">Github</a>
+                                  <a href="https://github.com/rtl-ug" data-text="Github" target="_blank" rel="nofollow">Github</a>
                               </li>
                             </ul>
                         </div>
                         <div class="menu-footer">
                             <ul class="social social-rounded">
                                 <li>
-                                    <a href="https://twitter.com/kanyeceejay" target="_blank" rel="nofollow">
+                                    <a href="https://twitter.com/rtlug" target="_blank" rel="nofollow">
                                         <i class="socicon-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank" rel="nofollow">
+                                    <a href="https://facebook.com/rootless-technologies-limited" target="_blank" rel="nofollow">
                                         <i class="socicon-facebook"></i>
                                     </a>
                                 </li>

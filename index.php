@@ -9,7 +9,7 @@
                       </a>
                   </li>
                     <li>
-                        <a href="https://twitter.com/kanyeceejay"  target="_blank" rel="nofollow">
+                        <a href="https://twitter.com/rtlug"  target="_blank" rel="nofollow">
                             <i class="socicon-twitter"></i>
                         </a>
                     </li>
