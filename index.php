@@ -225,8 +225,8 @@
                                         <div class="slide-body">
                                             <div class="slide-contact-address">Plot 925 Bukoto Ntinda Rd, Mariam Nabusi Arcade</div>
                                             <div class="slide-contact-mail">
-                                                <a href="mailto:studio@rtl.ug" class="underline">
-                                                    <span class="__cf_email__" data-cfemail="79111c15151639151c0e100a0a0d0c1d1016571a16">studio@rtl.ug</span>
+                                                <a href="mailto:sales@rtl.ug" class="underline">
+                                                    <span class="__cf_email__" data-cfemail="79111c15151639151c0e100a0a0d0c1d1016571a16">sales@rtl.ug</span>
                                                 </a>
                                             </div>
                                             <div class="slide-contact-phone">

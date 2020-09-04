@@ -88,8 +88,8 @@
                                 </div>
                                 <div class="header-contact-divider">/</div>
                                 <div class="header-contact-item">
-                                    <a href="mailto:info@silbaka.com" class="mail-link">
-                                        <span class="__cf_email__" data-cfemail="d9bab6b7adb8baad99b5bcaeb0aaaaadacbdb0b6f7bab6b4">info@silbaka.com</span>
+                                    <a href="mailto:sales@rtl.ug" class="mail-link">
+                                        <span class="__cf_email__" data-cfemail="d9bab6b7adb8baad99b5bcaeb0aaaaadacbdb0b6f7bab6b4">sales@rtl.ug</span>
                                     </a>
                                 </div>
                             </div>

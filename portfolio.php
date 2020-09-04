@@ -299,7 +299,7 @@
                     <div class="mt-4">
                         <a href="/cdn-cgi/l/email-protection#49212c25252609252c3e203a3a3d3c2d2026672a26" class="underline">
                             <strong>
-                                <span class="__cf_email__" data-cfemail="f9919c959596b9959c8e908a8a8d8c9d9096d79a96">studio@rtl.ug</span>
+                                <span class="__cf_email__" data-cfemail="f9919c959596b9959c8e908a8a8d8c9d9096d79a96">sales@rtl.ug</span>
                             </strong>
                         </a>
                     </div>
@@ -330,7 +330,7 @@
                                 <div class="contact-item">
                                     email<br>
                                     <a href="/cdn-cgi/l/email-protection#cba3aea7a7a48ba7aebca2b8b8bfbeafa2a4e5a8a4">
-                                        <span class="__cf_email__" data-cfemail="2e464b4242416e424b59475d5d5a5b4a4741004d41">studio@rtl.ug</span>
+                                        <span class="__cf_email__" data-cfemail="2e464b4242416e424b59475d5d5a5b4a4741004d41">sales@rtl.ug</span>
                                     </a>
                                 </div>
                                 <div class="contact-item">
