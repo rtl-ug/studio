@@ -20,7 +20,7 @@
                         </a>
                     </li>
                 </ul>
-                <div class="establised">establised 2012</div>
+                <div class="established">established 2012</div>
                 <div class="copyright-fixed">&copy; RTL <script>  document.write((new Date()).getFullYear());</script>  &nbsp;</div>
                 <div class="home-piling a-pagepiling full-height">
 

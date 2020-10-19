@@ -3303,7 +3303,7 @@ a.btn-play i {
     transform: scale(1)
 }
 
-.dark-horizontal .header,.dark-horizontal .social-fixed a,.dark-horizontal .establised,.dark-horizontal .copyright-fixed,.dark-horizontal .social-rounded-fixed a,.dark-horizontal .navbar-nav>ul>li>a {
+.dark-horizontal .header,.dark-horizontal .social-fixed a,.dark-horizontal .established,.dark-horizontal .copyright-fixed,.dark-horizontal .social-rounded-fixed a,.dark-horizontal .navbar-nav>ul>li>a {
     color: #fff
 }
 
@@ -7195,7 +7195,7 @@ a.phone-link {
     margin-bottom: 2.375rem
 }
 
-.establised {
+.established {
     display: none;
     position: fixed;
     left: 34px;
@@ -7233,7 +7233,7 @@ a.phone-link {
 }
 
 @media(min-width: 576px) {
-    .establised {
+    .established {
         display:block
     }
 }
@@ -7251,7 +7251,7 @@ a.phone-link {
         left: 3.75rem
     }
 
-    .establised {
+    .established {
         left: 5rem
     }
 }
