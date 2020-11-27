@@ -58,7 +58,15 @@
 			  ]
 			}
         </script>
-        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-D46HKN832P"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-D46HKN832P');
+        </script>
     </head>
     <body class="theme-yellow dark-horizontal">
         <div class="animsition">
