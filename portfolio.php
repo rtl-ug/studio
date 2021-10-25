@@ -214,7 +214,7 @@
     </div>
     
         <!-- EPI Pharma  -->
-        <div class="section pp-scrollable slide slide-dark" data-anchor="Epi">
+        <!-- <div class="section pp-scrollable slide slide-dark" data-anchor="Epi">
             <div class="slide-container">
                 <div class="slide-bg">
                     <div class="inside" style="background-image: url(img/piling-project11.jpg);"></div>
@@ -237,7 +237,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Africa Now  -->
         <div class="section pp-scrollable slide slide-dark" data-anchor="AfricaNow">
@@ -446,7 +446,7 @@
         </div>
 
         <!-- Uggrind Coffee  -->
-        <div class="section pp-scrollable slide slide-dark">
+        <!-- <div class="section pp-scrollable slide slide-dark">
             <div class="slide-container">
                 <div class="slide-bg">
                     <div class="inside" style="background-image: url(img/piling-project9.jpg);"></div>
@@ -469,7 +469,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
 
