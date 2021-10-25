@@ -133,13 +133,13 @@
                         <div class="slide-container">
                             <div class="slide-bg-list">
                                 <div class="slide-bg active">
-                                    <div class="inside" style="background-image: url(img/piling-project1.jpg);"></div>
+                                    <div class="inside" style="background-image: url(img/project-uchaguzi.jpg);"></div>
                                 </div>
                                 <div class="slide-bg">
                                     <div class="inside" style="background-image: url(img/piling-project2.jpg);"></div>
                                 </div>
                                 <div class="slide-bg">
-                                    <div class="inside" style="background-image: url(img/piling-project3.jpg);"></div>
+                                    <div class="inside" style="background-image: url(img/project-huduma.jpg);"></div>
                                 </div>
                                 <div class="slide-bg">
                                     <div class="inside" style="background-image: url(img/piling-project4.jpg);"></div>
@@ -161,11 +161,11 @@
                                 <div class="row piling-project-list">
                                     <div class="col-xl-4 col-6 piling-project-item">
                                         <h3 class="piling-project-title font-libre">
-                                            <a href="https://floatinggrill.ug" class="a-change-bg" target="_blank" rel="nofollow">
-                                                Floating Grill
+                                            <a href="https://apps.apple.com/ug/app/uchaguzi/id1547108416" class="a-change-bg" target="_blank" rel="nofollow">
+                                                Uchaguzi 
                                             </a>
                                         </h3>
-                                        <div class="piling-project-detail">2019 / Event & Ticketing</div>
+                                        <div class="piling-project-detail">2021 / iOS & Android App</div>
                                     </div>
                                     <div class="col-xl-4 col-6 piling-project-item">
                                         <h3 class="piling-project-title font-libre">
@@ -177,11 +177,11 @@
                                     </div>
                                     <div class="col-xl-4 col-6 piling-project-item">
                                         <h3 class="piling-project-title font-libre">
-                                            <a href="https://leoafricainstitute.org" class="a-change-bg" target="_blank" rel="nofollow">
-                                              LéO Africa Institute
+                                            <a href="https://huduma.leoafricainstitute.org" class="a-change-bg" target="_blank" rel="nofollow">
+                                              Huduma Fellowship
                                             </a>
                                         </h3>
-                                        <div class="piling-project-detail">2017 / NGO</div>
+                                        <div class="piling-project-detail">2021 / Social Platform</div>
                                     </div>
                                     <div class="col-xl-4 col-6 piling-project-item">
                                         <h3 class="piling-project-title font-libre">

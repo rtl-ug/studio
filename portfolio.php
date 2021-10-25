@@ -31,6 +31,188 @@
             </div>
         </div>
 
+        <!-- uchaguzi  -->
+        <div class="section pp-scrollable slide slide-dark" data-anchor="uchaguzi">
+            <div class="slide-container">
+                <div class="slide-bg">
+                    <div class="inside" style="background-image: url(img/project-uchaguzi.jpg);"></div>
+                </div>
+                <div class="container">
+                    <div class="row slide-content">
+                        <div class="col-sm-7">
+                            <div class="project-parallax-detail">2021 / iOS & Android App</div>
+                            <h2 class="project-piling-title font-libre">
+                                <a href="https://apps.apple.com/ug/app/uchaguzi/id1547108416"  target="_blank" rel="nofollow">
+                                    Uchaguzi<br/>Voter App
+                                </a>
+                            </h2>
+                            <small style="font-size: 1.1rem;">Uchaguzi is a mobile and web-based application that is designed for citizen use around and during Uganda’s general elections.</small>
+                            <br><br>
+                            <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://apps.apple.com/ug/app/uchaguzi/id1547108416" target="_blank">
+                                View Site <i class="icon ion-ios-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+       <!-- Nature Marks  -->
+       <div class="section pp-scrollable slide slide-dark" data-anchor="naturemarks">
+            <div class="slide-container">
+                <div class="slide-bg">
+                    <div class="inside" style="background-image: url(img/project-naturemarks.jpg);"></div>
+                </div>
+                <div class="container">
+                    <div class="row slide-content">
+                        <div class="col-sm-7">
+                            <div class="project-parallax-detail">2021 / ECommerce</div>
+                            <h2 class="project-piling-title font-libre">
+                                <a href="https://naturemarks.ug"  target="_blank" rel="nofollow">
+                                    NatureMarks<br/>Grocery Store
+                                </a>
+                            </h2>
+                            <small style="font-size: 1.1rem;">An online grocery and food store featuring user accounts, delivery tracking, and online payments.</small>
+                            <br><br>
+                            <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://naturemarks.ug" target="_blank">
+                                View Site <i class="icon ion-ios-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Huduma  -->
+       <div class="section pp-scrollable slide slide-dark" data-anchor="huduma">
+        <div class="slide-container">
+            <div class="slide-bg">
+                <div class="inside" style="background-image: url(img/project-huduma.jpg);"></div>
+            </div>
+            <div class="container">
+                <div class="row slide-content">
+                    <div class="col-sm-7">
+                        <div class="project-parallax-detail">2021 / Social Platform</div>
+                        <h2 class="project-piling-title font-libre">
+                            <a href="https://huduma.leoafricainstitute.org"  target="_blank" rel="nofollow">
+                                Huduma<br/>Fellowship Portal
+                            </a>
+                        </h2>
+                        <small style="font-size: 1.1rem;">A website with a fellows Platform for interaction, file sharing, and more.</small>
+                        <br><br>
+                        <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://huduma.leoafricainstitute.org" target="_blank">
+                            View Site <i class="icon ion-ios-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Suba Motel  -->
+    <div class="section pp-scrollable slide slide-dark" data-anchor="subamotel">
+        <div class="slide-container">
+            <div class="slide-bg">
+                <div class="inside" style="background-image: url(img/project-subamotel.jpg);"></div>
+            </div>
+            <div class="container">
+                <div class="row slide-content">
+                    <div class="col-sm-7">
+                        <div class="project-parallax-detail">2020 / Hospitality</div>
+                        <h2 class="project-piling-title font-libre">
+                            <a href="https://subamotel.com"  target="_blank" rel="nofollow">
+                                Suba Motel<br/>Website
+                            </a>
+                        </h2>
+                        <small style="font-size: 1.1rem;">A Motel's online prescence with an integrated booking engine.</small>
+                        <br><br>
+                        <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://subamotel.com" target="_blank">
+                            View Site <i class="icon ion-ios-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Makerere Council  -->
+    <div class="section pp-scrollable slide slide-dark" data-anchor="makerere">
+        <div class="slide-container">
+            <div class="slide-bg">
+                <div class="inside" style="background-image: url(img/project-makerere.jpg);"></div>
+            </div>
+            <div class="container">
+                <div class="row slide-content">
+                    <div class="col-sm-7">
+                        <div class="project-parallax-detail">2021 / Education</div>
+                        <h2 class="project-piling-title font-libre">
+                            <a href="https://council.mak.ac.ug?cmp_bypass=cmp_bypass"  target="_blank" rel="nofollow">
+                                Makerere university<br/>Council
+                            </a>
+                        </h2>
+                        <small style="font-size: 1.1rem;">A website for the university council with a portal for resolutions.</small>
+                        <br><br>
+                        <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://council.mak.ac.ug?cmp_bypass=cmp_bypass" target="_blank">
+                            View Site <i class="icon ion-ios-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Matarisi  -->
+    <div class="section pp-scrollable slide slide-dark" data-anchor="matarisi">
+        <div class="slide-container">
+            <div class="slide-bg">
+                <div class="inside" style="background-image: url(img/project-matarisi.jpg);"></div>
+            </div>
+            <div class="container">
+                <div class="row slide-content">
+                    <div class="col-sm-7">
+                        <div class="project-parallax-detail">2021 / Ecommerce</div>
+                        <h2 class="project-piling-title font-libre">
+                            <a href="https://naturemarks.ug"  target="_blank" rel="nofollow">
+                                Matarisi<br/>Online Store
+                            </a>
+                        </h2>
+                        <small style="font-size: 1.1rem;">An online general merchandise store featuring user accounts, delivery tracking, and online payments.</small>
+                        <br><br>
+                        <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://naturemarks.ug" target="_blank">
+                            View Site <i class="icon ion-ios-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Capital Savvy  -->
+    <div class="section pp-scrollable slide slide-dark" data-anchor="capitalsavvy">
+        <div class="slide-container">
+            <div class="slide-bg">
+                <div class="inside" style="background-image: url(img/project-capitalsavvy.jpg);"></div>
+            </div>
+            <div class="container">
+                <div class="row slide-content">
+                    <div class="col-sm-7">
+                        <div class="project-parallax-detail">2021 / fintech</div>
+                        <h2 class="project-piling-title font-libre">
+                            <a href="https://capitalsavvy.pro"  target="_blank" rel="nofollow">
+                                CapitalSavvy<br/>
+                            </a>
+                        </h2>
+                        <small style="font-size: 1.1rem;">A finance website with an investor account section for clients.</small>
+                        <br><br>
+                        <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://capitalsavvy.pro" target="_blank">
+                            View Site <i class="icon ion-ios-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
         <!-- EPI Pharma  -->
         <div class="section pp-scrollable slide slide-dark" data-anchor="Epi">
             <div class="slide-container">
