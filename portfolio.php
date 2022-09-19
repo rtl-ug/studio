@@ -31,6 +31,32 @@
             </div>
         </div>
 
+        <!-- Youth Action Handbook  -->
+        <div class="section pp-scrollable slide slide-dark" data-anchor="uchaguzi">
+            <div class="slide-container">
+                <div class="slide-bg">
+                    <div class="inside" style="background-image: url(img/project-EU-app.jpg);"></div>
+                </div>
+                <div class="container">
+                    <div class="row slide-content">
+                        <div class="col-sm-5">
+                            <div class="project-parallax-detail">2022 / iOS, Android, web & macOS App</div>
+                            <h2 class="project-piling-title font-libre">
+                                <a href="https://greatlakesyouth.africa/en/app/"  target="_blank">
+                                    Youth Action<br/>Handbook
+                                </a>
+                            </h2>
+                            <small style="font-size: 1.1rem;">The Youth Action Handbook is a European Union funded app to support the the Great Lakes Youth Network for Dialogue and Peace project, serving thousands of trainees in 2 languages accross 3 countries.</small>
+                            <br><br>
+                            <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://greatlakesyouth.africa/en/app/" target="_blank">
+                                View <i class="icon ion-ios-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- uchaguzi  -->
         <div class="section pp-scrollable slide slide-dark" data-anchor="uchaguzi">
             <div class="slide-container">
@@ -46,7 +72,7 @@
                                     Uchaguzi<br/>Voter App
                                 </a>
                             </h2>
-                            <small style="font-size: 1.1rem;">Uchaguzi is a mobile and web-based application that is designed for citizen use around and during Uganda’s general elections.</small>
+                            <small style="font-size: 1.1rem;">Uchaguzi is a mobile and web-based application that is designed for citizen use around and during Uganda’s 2021 general elections. It has served over 10,000 users since inception.</small>
                             <br><br>
                             <a class="btn btn-transparent btn-rounded mr-4 mybtn" href="https://apps.apple.com/ug/app/uchaguzi/id1547108416" target="_blank">
                                 View Site <i class="icon ion-ios-arrow-right"></i>
