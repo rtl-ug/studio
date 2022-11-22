@@ -32,8 +32,16 @@
         </div>
 
         <!-- Youth Action Handbook  -->
-        <div class="section pp-scrollable slide slide-dark" data-anchor="uchaguzi">
+        <div class="section pp-scrollable slide slide-dark" data-anchor="youth-action-handbook" id="youth-action-handbook">
             <div class="slide-container">
+                <style>
+                    @media screen and (max-width:696px) {
+                        #youth-action-handbook .slide-container{
+                            background: rgba(0,0,0,0.4);
+                        }
+                        
+                    }
+                </style>
                 <div class="slide-bg">
                     <div class="inside" style="background-image: url(img/project-EU-app.jpg);"></div>
                 </div>
